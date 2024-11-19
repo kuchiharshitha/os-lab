@@ -5,4 +5,4 @@
 ![program](program.PNG)
 
 #output
-![output](output.PNG)
+![output](OUTPUT.PNG)
