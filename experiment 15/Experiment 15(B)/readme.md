@@ -1,5 +1,5 @@
 #program file
-![program file](second level directory.py)
+![program file](secondleveldirectory.py)
 
 #program
 ![program](program.PNG)
